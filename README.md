@@ -35,7 +35,8 @@ My team and I are making a visual novel game in the style of Stalker.
 We're creating a visual novel experience set in the Stalker universe.
 Follow our development journey!
 
-[![Follow Development](https://img.shields.io/badge/-Следите_за_разработкой-0077FF?style=for-the-badge&logo=vk)](https://vk.com/ndg_stalker?from=groups)
+[![Follow Development](https://img.shields.io/badge/-Следите_за_разработкой-0077FF?style=for-the-badge&logo=vk)]
+(https://vk.com/ndg_stalker?from=groups)
 
 
 **📅Development status:**  
@@ -73,8 +74,7 @@ Follow our development journey!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secret_nemo@mail.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KritSecret)
 
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Programming Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&quoteCategory=programming)
 
 </div>
 
