@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Generate snake animation
+        run: |
+          npx -p @platane/snk git-snake --github-user-name KritSecret --output-file ./output/github-contribution-grid-snake.svg
+          
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: output
+          force_orphan: true
