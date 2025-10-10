@@ -37,7 +37,7 @@ We're creating a visual novel experience set in the Stalker universe.
 Follow our development journey!
 
 [![Follow Development](https://img.shields.io/badge/-Следите_за_разработкой-0077FF?style=for-the-badge&logo=vk)]
-(https://vk.com/ndg_stalker?from=groups)
+
 
 
 **📅Development status:**  
