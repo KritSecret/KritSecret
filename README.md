@@ -14,7 +14,7 @@ My team and I are making a visual novel game in the style of Stalker.
 <img src="https://github-readme-stats.vercel.app/api?username=KritSecret&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritSecret&layout=compact&theme=radical" height="165"/>
 
-
+![Snake animation](https://raw.githubusercontent.com/KritSecret/KritSecret/output/github-contribution-grid-snake.svg)
 
 </div>
 
