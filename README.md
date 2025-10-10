@@ -1,7 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🎮+STALKER+VISUAL+NOVEL+DEVELOPER;🐍+PYTHON+%7C+C%2B%2B+%7C+GAME+DEV;💻+FULL+STACK+ASPIRING+DEV;💫+WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 
 # Kirt / programmer
 
@@ -17,7 +17,8 @@ My team and I are making a visual novel game in the style of Stalker.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KritSecret&theme=radical&no-frame=true&row=2&column=4)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KritSecret&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KritSecret
+&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritSecret&layout=compact&theme=radical" height="165"/>
 
 
