@@ -36,7 +36,7 @@ My team and I are making a visual novel game in the style of Stalker.
 We're creating a visual novel experience set in the Stalker universe.
 Follow our development journey!
 
-[![Follow Development](https://img.shields.io/badge/-Следите_за_разработкой-0077FF?style=for-the-badge&logo=vk)]
+![Follow Development](https://img.shields.io/badge/-Следите_за_разработкой-0077FF?style=for-the-badge&logo=vk)
 
 
 
