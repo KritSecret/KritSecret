@@ -42,8 +42,8 @@ Follow our development journey!
 
 
 **📅Development status:**  
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 30%  
-*Creating a map*
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 40%  
+*New level*
 
 ## 👥 Project and community
 
