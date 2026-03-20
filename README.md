@@ -11,7 +11,6 @@ My team and I are making a visual novel game in the style of Stalker.
 
 ---
 
-### 💻 Aspiring developer from Armavir
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KritSecret&theme=radical&no-frame=true&row=2&column=4)
